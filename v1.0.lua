@@ -18,7 +18,7 @@ local function check(name, value)
     end
 end
 local function getdebbyver(ver)
-    if ver == 1.0 then
+    if ver == 1.1 then
         veright = true
     else
         veright = false
